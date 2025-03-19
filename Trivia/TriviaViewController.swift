@@ -12,7 +12,7 @@ class TriviaViewController: UIViewController {
     // MARK: - IBOutlets
     @IBOutlet weak var questionCounterLabel: UILabel!
     @IBOutlet weak var categoryLabel: UILabel!
-    @IBOutlet weak var questionLabel: UILabel!
+    @IBOutlet weak var questionLabel: UILabel! 
     @IBOutlet weak var answerButton1: UIButton!
     @IBOutlet weak var answerButton2: UIButton!
     @IBOutlet weak var answerButton3: UIButton!
